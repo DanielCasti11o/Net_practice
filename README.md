@@ -32,5 +32,5 @@ Ya con el Total de host tienes el rango con el que puedes trabajar, ahora si qui
 H = Total de hosts.
 
 | xxx.xxx.xxx.(256 - H) |
--------------------------
+|-----------------------|
 
